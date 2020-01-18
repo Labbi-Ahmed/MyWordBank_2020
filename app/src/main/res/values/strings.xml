@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWordBank</string>
+    <string name="Heading">My Word Bank</string>
+    <string name="input_word">Input Word</string>
+    <string name="input_meaning">Input Meaning</string>
+    <string name="submit_Button">Submit</string>
+    <string name="name">Name</string>
+</resources>
